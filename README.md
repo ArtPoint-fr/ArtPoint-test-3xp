@@ -6,9 +6,8 @@ Je te propose un exercice qui me permettra d’en savoir un peu plus sur tes com
 
 Dans cet exercice tu dois créer une application Next.js qui affiche le contenu du fichier data.json.
 
-- Une page principale,
-- Une page par artiste avec toutes ses oeuvres.
-
+- Une page principale qui liste les artistes,
+- Une page par artiste avec toutes ses oeuvres,
 - Ta seule obligation est d’utiliser au mieux React,
 - CSS ou Tailwind,
 - Tu es libre d’ajouter quelques démonstrations de tes compétences si tu le souhaites.
